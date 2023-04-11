@@ -1,0 +1,1 @@
+{"hidden_size": 128, "include_input_dir": true, "include_input_xyz": true, "num_encoding_fn_dir": 4, "num_encoding_fn_xyz": 10, "num_layers": 4, "skip_connect_every": 4, "type": "FlexibleNeRFModel", "use_viewdirs": true}
