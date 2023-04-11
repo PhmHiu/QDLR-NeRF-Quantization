@@ -1,2 +1,3 @@
-# QDLR-NeRF-Quantization
-Implementation of quantization part in QDLR-NeRF
+# Implementation of quantization part in QDLR-NeRF
+
+Still updating...
